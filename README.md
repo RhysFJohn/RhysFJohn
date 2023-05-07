@@ -42,20 +42,21 @@
     <p align='center'>
       <img src="https://img.shields.io/badge/Typescript-404D59?style=for-the-badge&logo=typescript"></img>
       <img src="https://img.shields.io/badge/NextJS-404D59?style=for-the-badge&logo=next.js"></img>
+      <img src="https://img.shields.io/badge/TailwindCSS-404D59?style=for-the-badge&logo=tailwindcss"></img>
     </p>
     <hr>
     <h2 align="center">•••• Socials ••••</h2>
     <p align="center">
     <a href="https://www.instagram.com/rhysfj/"><img src="https://img.shields.io/badge/RhysFJ-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
     <a href="https://www.twitch.tv/netherlyte"><img src="https://img.shields.io/badge/netherlyte-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></img></a>
-    <a href="https://www.youtube.com/netherlyte"><img src="https://img.shields.io/badge/Netherlyte-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
-    <a href="https://www.youtube.com/netherlyte"><img src="https://img.shields.io/badge/Netherlyte-FF0050.svg?style=for-the-badge&logo=tiktok&logoColor=white"></img></a>
+    <a href="https://www.youtube.com/@netherlyte"><img src="https://img.shields.io/badge/Netherlyte-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+    <a href="https://www.tiktok.com/@netherlyte"><img src="https://img.shields.io/badge/Netherlyte-FF0050.svg?style=for-the-badge&logo=tiktok&logoColor=white"></img></a>
     </p>
     <hr>
     <h2 align="center">•••• PC Specs ••••</h2>
     <p align="center">
     <img src="https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/AMD-Radeon_RX_6750XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/AMD-Radeon_RX_7900XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img>
     </p>
     <h3 align="center">•••• Platforms ••••</h3>
     <p align="center">
