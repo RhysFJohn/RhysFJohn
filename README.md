@@ -56,7 +56,7 @@
     <h2 align="center">•••• PC Specs ••••</h2>
     <p align="center">
     <img src="https://img.shields.io/badge/AMD-Ryzen_9_5900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/AMD-Radeon_RX_7900XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/AMD-Radeon_RX_7900XTX-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></img>
     </p>
     <h3 align="center">•••• Platforms ••••</h3>
     <p align="center">
