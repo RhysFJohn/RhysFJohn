@@ -8,7 +8,7 @@
     <li><b>Hobbies:</b> Web Development, Gaming 🎮, Watching Anime 📺 and Reading 📖</li> 
   </div>
   <div style="display: flex; justify-content: space-between;">
-    <div align="left">
+    <div >
       <dl>
       <dt>I'm Currently working on</dt>
         <dd>- Personal Portfolio</dd>
@@ -17,7 +17,7 @@
         <dd>- Dating App</dd>
       </dl>
     </div>
-    <img align="right" style="max-width: 44%; display: flex;" src="https://github-readme-stats.vercel.app/api/top-langs?username=RhysFJohn&show_icons=true&locale=en&layout=compact&theme=onedark" alt="RhysFJohn" />
+    <img style="max-width: 44%; display: flex;" src="https://github-readme-stats.vercel.app/api/top-langs?username=RhysFJohn&show_icons=true&locale=en&layout=compact&theme=onedark" alt="RhysFJohn" />
   </div>
   <hr>
   <div>
