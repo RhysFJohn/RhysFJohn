@@ -7,7 +7,7 @@
     <li><b>Name:</b> Rhys</li>
     <li><b>Hobbies:</b> Web Development, Gaming 🎮, Watching Anime 📺 and Reading 📖</li> 
   </div>
-  <div style="display: flex; justify-content: space-between; flex-direction: row;">
+  <div>
     <div align="left">
       <dl>
       <dt>I'm Currently working on</dt>
@@ -17,7 +17,9 @@
         <dd>- Dating App</dd>
       </dl>
     </div>
-    <img align="right" style="max-width: 44%; display: flex;" src="https://github-readme-stats.vercel.app/api/top-langs?username=RhysFJohn&show_icons=true&locale=en&layout=compact&theme=onedark" alt="RhysFJohn" />
+  </div>
+  <div align="center">
+    <img style="max-width: 44%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=RhysFJohn&show_icons=true&locale=en&layout=compact&theme=onedark" alt="RhysFJohn" />
   </div>
   <hr>
   <div>
