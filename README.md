@@ -7,8 +7,8 @@
     <li><b>Name:</b> Rhys</li>
     <li><b>Hobbies:</b> Web Development, Gaming 🎮, Watching Anime 📺 and Reading 📖</li> 
   </div>
-  <div style="display: flex; justify-content: space-between;">
-    <div >
+  <div style="display: flex; justify-content: space-between; flex-direction: row;">
+    <div>
       <dl>
       <dt>I'm Currently working on</dt>
         <dd>- Personal Portfolio</dd>
