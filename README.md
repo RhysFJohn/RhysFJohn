@@ -14,7 +14,6 @@
         <dd>- Personal Portfolio</dd>
         <dd>- Hub for Fictional Literature</dd>
         <dd>- Jira Clone</dd>
-        <dd>- Dating App</dd>
       </dl>
     </div>
   </div>
