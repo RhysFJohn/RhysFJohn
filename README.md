@@ -28,11 +28,15 @@
   
   <div>
     <h3 align="center">IDE</h3>
-    <p align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    </p>
     <hr>
     <h2 align="center">Skills</h2>
     <p align="center">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
+      <picture>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
+      </picture>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img>
@@ -47,9 +51,13 @@
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     </p>
     <p align="center">
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/TailwindCSS-404D59?style=for-the-badge&logo=tailwindcss" />
+      <img src="https://img.shields.io/badge/Prisma-%2331A8FF.svg?style=for-the-badge&logo=prisma&logoColor=white" />
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/postgresql-404D59.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/mongodb-404D59?style=for-the-badge&logo=mongodb" />
     </p>
     <h3 align="center">---- Learning ----</h3>
     <p align='center'>
