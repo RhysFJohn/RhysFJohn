@@ -11,8 +11,7 @@
     <div align="left">
       <dl>
       <dt>I'm Currently working on</dt>
-        <dd>- Personal Portfolio</dd>
-        <dd>- Hub for Fictional Literature</dd>
+        <dd>- Networkr: A application to let users share their QR Codes with others</dd>
         <dd>- Jira Clone</dd>
       </dl>
     </div>
@@ -56,13 +55,14 @@
       <img src="https://img.shields.io/badge/Prisma-%2331A8FF.svg?style=for-the-badge&logo=prisma&logoColor=white" />
     </p>
     <p align="center">
-      <img src="https://img.shields.io/badge/postgresql-404D59.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/mongodb-404D59?style=for-the-badge&logo=mongodb" />
+      <img src="https://img.shields.io/badge/postgresql-404D59.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/NextJS-404D59?style=for-the-badge&logo=next.js" />
+      <img src="https://img.shields.io/badge/Typescript-404D59?style=for-the-badge&logo=typescript" />
     </p>
     <h3 align="center">---- Learning ----</h3>
     <p align='center'>
-      <img src="https://img.shields.io/badge/Typescript-404D59?style=for-the-badge&logo=typescript" />
-      <img src="https://img.shields.io/badge/NextJS-404D59?style=for-the-badge&logo=next.js" />
+      <img src="https://img.shields.io/badge/Remix-404D59?style=for-the-badge&logo=remix" />
     </p>
     <hr>
     <h2 align="center">Socials</h2>
