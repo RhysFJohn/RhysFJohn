@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <body>
   <h1 align="center"><b> Welcome to my profile!</b></h1>
+  <h2 align="center">I'm a Software Engineer and a Support Engineer.</h2>
   <br>
   <div align="left">
     <h2 align="center">About Me</h2>
@@ -17,7 +18,7 @@
     </div>
   </div>
   <div align="center">
-    <img style="max-width: 44%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=RhysFJohn&show_icons=true&locale=en&layout=compact&theme=onedark" alt="RhysFJohn" />
+    <img style="max-width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=RhysFJohn&show_icons=true&locale=en&layout=compact&theme=onedark" alt="RhysFJohn" />
   </div>
   <hr>
   <div>
@@ -28,7 +29,14 @@
   <div>
     <h3 align="center">IDE</h3>
     <p align="center">
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
+      <img src="https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=fff">
+    </p>
+    <h3 align="center">Operating Systems</h3>
+    <p align="center">
+      <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://custom-icon-badges.demolab.com/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0" />
     </p>
     <hr>
     <h2 align="center">Skills</h2>
@@ -36,7 +44,7 @@
       <picture>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
       </picture>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white"></img>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></img>
     </p>
@@ -46,8 +54,8 @@
       <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></img>
     </p>
     <p align="center">
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express"/>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
     </p>
     <p align="center">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -55,21 +63,24 @@
       <img src="https://img.shields.io/badge/Prisma-%2331A8FF.svg?style=for-the-badge&logo=prisma&logoColor=white" />
     </p>
     <p align="center">
-      <img src="https://img.shields.io/badge/mongodb-404D59?style=for-the-badge&logo=mongodb" />
-      <img src="https://img.shields.io/badge/postgresql-404D59.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/NextJS-404D59?style=for-the-badge&logo=next.js" />
-      <img src="https://img.shields.io/badge/Typescript-404D59?style=for-the-badge&logo=typescript" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+    </p>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
     </p>
     <h3 align="center">---- Learning ----</h3>
     <p align='center'>
       <img src="https://img.shields.io/badge/Remix-404D59?style=for-the-badge&logo=remix" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" />
     </p>
     <hr>
     <h2 align="center">Socials</h2>
     <p align="center">
     <a href="https://www.instagram.com/rhysfj/"><img src="https://img.shields.io/badge/RhysFJ-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.twitch.tv/netherlyte"><img src="https://img.shields.io/badge/netherlyte-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@netherlyte"><img src="https://img.shields.io/badge/Netherlyte-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     <a href="https://www.tiktok.com/@netherlyte"><img src="https://img.shields.io/badge/Netherlyte-FF0050.svg?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
     <a href="https://www.x.com/R_FJohn">
       <img src="https://img.shields.io/badge/RhysFJohn-000000.svg?style=for-the-badge&logo=X&logoColor=white" />
