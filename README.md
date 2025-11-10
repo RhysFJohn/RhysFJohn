@@ -75,7 +75,7 @@
     <p align='center'>
       <img src="https://img.shields.io/badge/Remix-404D59?style=for-the-badge&logo=remix" />
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" />
-      <img src="https://custom-icon-badges.demolab.com/badge/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" />
     </p>
     <hr>
     <h2 align="center">Socials</h2>
